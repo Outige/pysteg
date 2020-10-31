@@ -1,2 +1,2 @@
 # pysteg
-Steganography implimented with python
+Steganography implemented with python
